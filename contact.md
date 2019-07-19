@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Contact
 ---
 
 Mailing Address:  

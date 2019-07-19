@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yunhao Huang
+show-avatar: true
 ---
 
 Hello! My name is Yunhao Huang. 

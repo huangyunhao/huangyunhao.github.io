@@ -20,7 +20,7 @@ description: Personal Website
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "about"
+  Home: "index"
   Research: "research"
   CV: "https://www.dropbox.com/s/5mqnrcinjxadlp6/CV.pdf?dl=0"
   Contact Me: "contact"

@@ -22,7 +22,7 @@ description: Personal Website
 navbar-links:
   Home: "index"
   Research: "research"
-  CV: "https://www.dropbox.com/s/5mqnrcinjxadlp6/CV.pdf?dl=0"
+  CV: "pdf/CV_Yunhao_Huang.pdf" # "https://www.dropbox.com/s/5mqnrcinjxadlp6/CV.pdf?dl=0"
   Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
